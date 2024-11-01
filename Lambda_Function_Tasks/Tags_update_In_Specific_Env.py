@@ -41,7 +41,7 @@ def create_tags(instanceids):
             },
             {
                 'Key': 'Company',
-                'Value': 'JJtech Inc'
+                'Value': 'Solavisetech'
             },
             {
                 'Key': 'Createdby',
@@ -96,7 +96,7 @@ def create_tags(instanceids):
             },
             {
                 'Key': 'Company',
-                'Value': 'JJtech Inc'
+                'Value': 'Solavisetech'
             },
             {
                 'Key': 'Createdby',
